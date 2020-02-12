@@ -11,4 +11,4 @@ Preview 1:
 ![Image of Preview][prev]
 
 
-[prev]: ./assets/prev1.png
+[prev]: ./assets/btc.gif
